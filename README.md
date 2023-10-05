@@ -1,4 +1,9 @@
 # venv
+  
+
+  ``` sudo apt install python3.9-distutils ```
+
+   
 Clone the repo
   
   
