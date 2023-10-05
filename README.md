@@ -3,8 +3,13 @@ Clone the repo
   
   
 ``` git clone https://github.com/nahueespinosa/visual_search.git ```
+
+Change working directory
   
   
+``` cd visual_search```
+
+      
 Install virtualenv
   
   
