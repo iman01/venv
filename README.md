@@ -11,8 +11,11 @@ Change working directory
 
       
 Install virtualenv
+
   
-  
+  ```sudo apt-get install pip -y```
+
+     
 ``` pip install virtualenv ```
   
   
