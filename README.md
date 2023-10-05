@@ -7,7 +7,7 @@ Clone the repo
 Change working directory
   
   
-``` cd visual_search```
+``` cd visual_graph_search```
 
       
 Install virtualenv
