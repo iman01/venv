@@ -4,7 +4,7 @@
   ``` sudo apt install python3.9-distutils ```
 
    
-Clone the repo
+Clone the repo (link from github project)
   
   
 ``` git clone https://github.com/iman01/visual_graph_search ```
@@ -54,10 +54,6 @@ Run the code
 ``` python runner.py ```
   
   
-create requirements to a new name
-  
-  
-``` pip freeze > requirements_new.txt```
   
   
 deactivate virtual environment
