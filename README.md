@@ -9,7 +9,7 @@ Clone the repo (link from github project)
   
 ``` git clone https://github.com/iman01/visual_graph_search ```
 
-Change working directory
+Change working directory to your project
   
   
 ``` cd visual_graph_search```
