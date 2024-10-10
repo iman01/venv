@@ -1,18 +1,18 @@
 # venv
   
 
-  ``` sudo apt install python3.9-distutils ```
+  ``` sudo apt install python3.10-distutils ```
 
    
 Clone the repo (link from github project)
   
   
-``` git clone https://github.com/iman01/visual_graph_search ```
+``` git clone https://github.com/iman01/search-maze-python ```
 
 Change working directory to your project
   
   
-``` cd visual_graph_search```
+``` cd search-maze-python```
 
       
 Install virtualenv
@@ -51,7 +51,7 @@ Install dependencies
 Run the code
   
   
-``` python runner.py ```
+``` python3 maze.py maze3.txt ```
   
   
   
